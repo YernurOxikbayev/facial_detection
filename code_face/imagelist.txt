@@ -1,0 +1,4 @@
+3
+F:/home/lanhnguyen/thesis/code_face/image/001.jpg
+F:/home/lanhnguyen/thesis/code_face/image/002.jpg
+F:/home/lanhnguyen/thesis/code_face/image/003.jpg
