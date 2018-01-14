@@ -5,7 +5,7 @@ Apply Dimensionality Reduction approach for Facial Detection Using CNN
 
 ### Prerequisites
 
-1. Python 3.5.x
+1. Python 3.5.x on Window 7 or higher
 
 2. Tensorflow
 ```
